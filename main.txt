@@ -1,0 +1,4 @@
+n, m = map(int, input().split())
+card = list(map(int,input().split()))
+
+print(card) 
