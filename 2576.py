@@ -14,6 +14,6 @@ for i in range(7):
 
 if result > 0:
     print(result + 1)
+    print(min(odd))
 else:
     print(result)
-print(min(odd))
